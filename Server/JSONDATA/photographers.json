@@ -1,0 +1,128 @@
+[
+  {
+    "username": "photo_artist",
+    "email": "photo.artist@example.com",
+    "password": "photographer_password",
+    "style": "Modern",
+    "description": "kasbdjfbas",
+    "experienceYears": 5,
+    "price": 10000,
+    "availability": [
+      {
+        "date": "2024-02-10",
+        "status": "booked"
+      }
+    ],
+    "photos": ["shot1.jpg", "shot2.jpg"],
+    "servicesOffered": ["photography"],
+    "chatHistory": []
+  },
+  {
+    "username": "capturing_moments",
+    "email": "capturing.moments@example.com",
+    "password": "moments_password",
+    "style": "Vintage",
+    "description": "kasbdjfbas",
+    "experienceYears": 8,
+    "price": 10000,
+    "availability": [
+      {
+        "date": "2024-03-15",
+        "status": "available"
+      }
+    ],
+    "photos": ["photo3.jpg", "photo4.jpg"],
+    "servicesOffered": ["photography"],
+    "chatHistory": []
+  },
+  {
+    "username": "eternal_lens",
+    "email": "eternal.lens@example.com",
+    "password": "eternal_lens_password",
+    "style": "Timeless",
+    "description": "kasbdjfbas",
+    "experienceYears": 10,
+    "price": 10000,
+    "availability": [
+      {
+        "date": "2024-04-20",
+        "status": "booked"
+      }
+    ],
+    "photos": ["photo5.jpg", "photo6.jpg"],
+    "servicesOffered": ["photography"],
+    "chatHistory": []
+  },
+  {
+    "username": "fashion_flash",
+    "email": "fashion.flash@example.com",
+    "password": "fashion_flash_password",
+    "style": "Fashion",
+    "description": "kasbdjfbas",
+    "experienceYears": 6,
+    "price": 10000,
+    "availability": [
+      {
+        "date": "2024-05-10",
+        "status": "available"
+      }
+    ],
+    "photos": ["photo7.jpg", "photo8.jpg"],
+    "servicesOffered": ["photography"],
+    "chatHistory": []
+  },
+  {
+    "username": "sunset_shutter",
+    "email": "sunset.shutter@example.com",
+    "password": "sunset_shutter_password",
+    "style": "Natural",
+    "description": "kasbdjfbas",
+    "experienceYears": 7,
+    "price": 10000,
+    "availability": [
+      {
+        "date": "2024-06-05",
+        "status": "booked"
+      }
+    ],
+    "photos": ["photo9.jpg", "photo10.jpg"],
+    "servicesOffered": ["photography"],
+    "chatHistory": []
+  },
+  {
+    "username": "urban_frames",
+    "email": "urban.frames@example.com",
+    "password": "urban_frames_password",
+    "style": "Urban",
+    "description": "kasbdjfbas",
+    "experienceYears": 4,
+    "price": 10000,
+    "availability": [
+      {
+        "date": "2024-07-01",
+        "status": "available"
+      }
+    ],
+    "photos": ["photo11.jpg", "photo12.jpg"],
+    "servicesOffered": ["photography"],
+    "chatHistory": []
+  },
+  {
+    "username": "dynamic_shots",
+    "email": "dynamic.shots@example.com",
+    "password": "dynamic_shots_password",
+    "style": "Dynamic",
+    "description": "kasbdjfbas",
+    "experienceYears": 9,
+    "price": 10000,
+    "availability": [
+      {
+        "date": "2024-08-15",
+        "status": "booked"
+      }
+    ],
+    "photos": ["photo13.jpg", "photo14.jpg"],
+    "servicesOffered": ["photography"],
+    "chatHistory": []
+  }
+]

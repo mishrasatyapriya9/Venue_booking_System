@@ -1,0 +1,26 @@
+{
+  "username": "john_doe",
+  "email": "john.doe@example.com",
+  "password": "hashed_password",
+  "bookingHistory": [
+    {
+      "bookingId": "booking_1",
+      "venueId": "venue_1",
+      "services": ["catering", "photography"],
+      "totalAmount": 1500,
+      "status": "confirmed",
+      "date": "2024-02-10"
+    }
+  ],
+  "payments": [
+    {
+      "transactionId": "txn_1",
+      "amount": 1500,
+      "date": "2024-02-05"
+    }
+  ],
+  "cancellationPolicy": {
+    "refundablePercentage": 50,
+    "cancellationDaysLimit": 7
+  }
+}
